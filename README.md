@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Hey there 👋
 
 I'm Geovanie Vasquez, a data enthusiast based in Haltom City, Texas.
@@ -34,4 +34,4 @@ A Bit About Me
 🎮 Big into games, always down for a good one
 📊 Passionate about turning raw data into real insights
 🧠 I like building things that are simple, useful, and easy to understand
--->
+
