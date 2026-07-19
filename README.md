@@ -1,14 +1,12 @@
 ## Hi there 👋
 
 
-Hey there 👋
-
 I'm Geovanie Vasquez, a data enthusiast based in Haltom City, Texas.
 
 I mostly work on data and programming — Java, C++, C, and SQL, with Microsoft Office for reporting and documentation.
 
 
-Tools & Tech
+## Tools & Tech
 
 
 Java, C++, C (Programming Language)
@@ -18,7 +16,7 @@ Computer Programming
 
 
 
-Currently Learning
+## Currently Learning
 
 
 🐍 Python & Pandas
@@ -27,7 +25,7 @@ Currently Learning
 
 
 
-A Bit About Me
+## A Bit About Me
 
 
 🌱 I love plants — always growing something new
