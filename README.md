@@ -9,10 +9,10 @@ I mostly work on data and programming — Java, C++, C, and SQL, with Microsoft 
 ## Tools & Tech
 
 
-Java, C++, C (Programming Language)
+Java, C++, C 
 SQL
 Microsoft Office
-Computer Programming
+
 
 
 
@@ -22,7 +22,7 @@ Computer Programming
 🐍 Python & Pandas
 📊 Power BI / Tableau
 📈 Advanced Excel
-
+☁️ AWS / Microsoft Azure (cloud fundamentals)
 
 
 ## A Bit About Me
