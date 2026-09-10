@@ -28,7 +28,6 @@
 ## A Bit About Me
 
 
-- 🌱 I love plants — always growing something new
 - 🎮 Big into Sim games 
 - 📊 Passionate about turning raw data into real insights
 - 🧠 I like building things that are simple, useful, and easy to understand
