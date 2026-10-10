@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Geovanie Vasquez, a data enthusiast based in Haltom City, Texas.
+I'm Geovanie Vasquez, a student at the University of Texas at Arlington and a data enthusiast based in Haltom City, Texas.
 
 I'm interested in programming, database design, data analysis, and game development. My projects include working with data structures and algorithms, building database applications, and developing gameplay systems in Unity.
 
