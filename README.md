@@ -30,7 +30,7 @@ Currently, I'm learning Python and Pandas, Power BI and Tableau, advanced Excel,
 ## Where to Find Me
 
 <p>
-  <a href="https://github.com/GeovanieVasquez"><img src="https://skillicons.dev/icons?i=github" height="48" alt="Geovanie Vasquez on GitHub"></a>
+  <a href="https://www.linkedin.com/in/geovanie-vasquez"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Geovanie Vasquez on LinkedIn"></a>&nbsp;<a href="mailto:geovasqz10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email Geovanie Vasquez"></a>
 </p>
 
 [Explore my projects](https://github.com/GeovanieVasquez?tab=repositories)
