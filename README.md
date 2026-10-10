@@ -13,7 +13,7 @@ Currently, I'm learning Python and Pandas, Power BI and Tableau, advanced Excel,
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL">&nbsp;<a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite"></a>
   <br>
-  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git,github,unity,docker,linux" height="48" alt="Git, GitHub, Unity, Docker, and Linux"></a>&nbsp;<a href="https://www.overleaf.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/overleaf/overleaf-original.svg" width="48" height="48" alt="Overleaf"></a>
+  <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git,github,unity,docker,linux" height="48" alt="Git, GitHub, Unity, Docker, and Linux"></a>
 </p>
 
 **Languages:** Python, Java, C, C++, C#, SQL<br>
